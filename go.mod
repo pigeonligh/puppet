@@ -8,5 +8,5 @@ require (
 	golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
-	gopkg.pigeonligh.com/easygo v0.1.0 // indirect
+	gopkg.pigeonligh.com/easygo v0.1.0
 )
